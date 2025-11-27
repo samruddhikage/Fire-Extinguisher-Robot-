@@ -5,12 +5,12 @@ Short description: Autonomous robot that detects and extinguishes Class A fires 
 
 ## Contents
 - `code/` — Arduino source
-- `hardware/` — block & circuit diagrams
+- `hardware/report` — block & circuit diagrams
 - `documentation/` — report and presentation
-- `documentation/images/` — build and test photos
+- `documentation/report/` — build and test photos
 
 ## Quick Start
-1. Open `code/fire_robot.ino` in Arduino IDE.
+1. Open `fireextinguisher.ino` in Arduino IDE.
 2. Wire components per circuit daigram in `Report.pdf`.
 3. Upload to Arduino Mega, power with appropriate battery pack.
 
