@@ -6,7 +6,7 @@ Short description: Autonomous robot that detects and extinguishes Class A fires 
 ## Contents
 - `code/` — Arduino source
 - `hardware/report` — block & circuit diagrams
-- `documentation/` — report and presentation
+- `documentation/` — report
 - `documentation/report/` — build and test photos
 
 ## Quick Start
