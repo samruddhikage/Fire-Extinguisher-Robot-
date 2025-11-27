@@ -1,5 +1,4 @@
 # Fire-Extinguisher-Robot-
-Fire-Extinguisher-Robot
 
 Autonomous robot that detects and extinguishes Class A fires using flame sensors, Arduino Mega, motor driver, and a water pump.
 
